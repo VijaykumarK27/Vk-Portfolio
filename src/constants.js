@@ -112,6 +112,13 @@ export const projects = [
     source: "https://github.com/VijaykumarK27/DigitalClock.git",
     },
 
+    {
+      link: "https://weather-app-theta-five-19.vercel.app/",
+      img: "https://firebasestorage.googleapis.com/v0/b/image-link-7294d.appspot.com/o/images%2Feede4909-df4f-4dfc-9668-d5c53ddf9e2a_Screenshot%20(44).png?alt=media&token=87407980-872f-4b8b-86eb-ad35391f79e0",
+      desc: "Weather App",
+      source: "https://github.com/VijaykumarK27/weather-app.git",
+      },
+
     { 
     link: "https://calculator-two-umber.vercel.app/",
     img: "https://firebasestorage.googleapis.com/v0/b/image-link-7294d.appspot.com/o/vig%2Fa6576788-f555-4ad7-b9e5-a743b5ee1c08_c.png?alt=media&token=77f69f4c-4c12-40f0-a143-1b9d3c89d722",
@@ -125,6 +132,13 @@ export const projects = [
     desc: "BMI-Calculator",
     source: "https://github.com/VijaykumarK27/BMI-CALCULATOR.git",
     },
+
+    {
+      link: "https://currency-app-gilt.vercel.app/",
+      img: "https://firebasestorage.googleapis.com/v0/b/image-link-7294d.appspot.com/o/images%2F58c47494-f567-49fe-a49a-8899e327a155_Screenshot%20(45).png?alt=media&token=315a1da8-9ed3-4949-82e0-4b5b501c0f29",
+      desc: "Currency Converter",
+      source: "https://github.com/VijaykumarK27/currency-app.git",
+      },
     
     
 ];
